@@ -1,7 +1,7 @@
 
 # Hi there, I'm Rafael Iberico! 👋
 
-### 💻 Systems Engineer | Junior Developer
+### 💻 Systems Engineer |  Developer
 
 I'm a Systems Engineering graduate from Peru, passionate about building modern, scalable, secure, and user-friendly software solutions.
 
