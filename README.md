@@ -94,7 +94,7 @@ I'm open to opportunities in **Frontend, Backend, and Full Stack Development**, 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaelibezu)
 
-📧 **Email:** rafaelibezu@gmail.com
+📧 **Email:** picexcelbi@gmail.com
 
 ---
 
