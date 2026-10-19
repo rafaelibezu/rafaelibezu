@@ -87,14 +87,6 @@ I enjoy transforming complex business requirements into clean, efficient, and ma
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelibezu&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelibezu&layout=compact&hide_border=true)
-
----
-
 ## 🤝 Let's Connect!
 
 I'm open to opportunities in **Frontend, Backend, and Full Stack Development**, where I can contribute, collaborate, and continue growing as a software engineer.
